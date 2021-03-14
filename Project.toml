@@ -1,0 +1,13 @@
+name = "AreumAI"
+uuid = "6de7ba89-32da-4e8c-bf47-87a9b7e01b40"
+authors = ["kernel <morphism@nate.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
